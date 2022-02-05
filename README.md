@@ -4,7 +4,7 @@
  
 </h2>
 
-<img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" widht="300">
+<img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" width="300">
 
 _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer and Script Wiz. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Computer Vision*** and ***Open Source Development***. You can contact me on my social media._
 
