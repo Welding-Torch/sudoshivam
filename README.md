@@ -6,7 +6,7 @@
 
 <img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" widht="300">
 
-_Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer and Script Wiz. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Computer Vision*** and ***Open Source Development***. You can contact me on my social media._
+_Hi, this is ***Welding Torch***. An AI research student, Freelance Web Developer and Script Wiz. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Computer Vision*** and ***Open Source Development***. You can contact me on my social media._
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
@@ -29,7 +29,7 @@ _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer
 
 <h3 align="center">
  
-![](https://komarev.com/ghpvc/?username=sudoshivam&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/976e3897-1e63-463d-9d7f-a2c84c3383ba.svg)](https://wakatime.com/@976e3897-1e63-463d-9d7f-a2c84c3383ba)
+![](https://komarev.com/ghpvc/?username=welding-torch&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/976e3897-1e63-463d-9d7f-a2c84c3383ba.svg)](https://wakatime.com/@976e3897-1e63-463d-9d7f-a2c84c3383ba)
 
  </h3>
  </br>
@@ -38,15 +38,15 @@ _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
  
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoshivam&count_private=true&show_icons=true&theme=gotham)](https://github.com/sudoshivam/github-readme-stats)
+[![Welding Torch's GitHub stats](https://github-readme-stats.vercel.app/api?username=welding-torch&count_private=true&show_icons=true&theme=gotham)](https://github.com/sudoshivam/github-readme-stats)
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudoshivam&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=welding-torch&theme=gotham)](https://git.io/streak-stats)
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![Shivam's github activity graph](https://activity-graph.herokuapp.com/graph?username=sudoshivam&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Welding Torch's github activity graph](https://activity-graph.herokuapp.com/graph?username=welding-torch&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2><i>Language and Tools</i></h2>
 </br>
